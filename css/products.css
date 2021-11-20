@@ -1,0 +1,195 @@
+.product-img-box {
+  text-align: center;
+}
+
+.product-img-anchors {
+  text-decoration: none;
+  color: #303133;
+}
+
+.product-img-anchors:hover {
+  text-decoration: none;
+  color: #1D58A8;
+}
+
+.product-img-button {
+  color: #1D58A8;
+  background-color: transparent;
+  border: 1px solid #1D58A8;
+  font-size: 12px;
+  padding: 13px 31px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 1px;
+  outline: none;
+}
+
+.product-img-button:hover {
+  background-color: #1D58A8;
+  color: #ffffff;
+}
+
+.productCenter {
+  align-items: center;
+}
+
+/* .product-img-left {
+  width: 100%;
+} */
+.product-img-left {
+  width: 60%;
+}
+
+/* dmr */
+/* breadcrumbs */
+.breadcrumb-nav {
+  font-size: 0.8rem;
+}
+
+.breadcrumb-navcontainer {
+  background: transparent;
+  margin: 0;
+}
+
+.each-product-img {
+  width: 100%;
+}
+
+.each-product-container {
+  width: 90vw;
+  margin: 0 auto;
+}
+
+.download-data-sheet-button {
+  background-color: #dc4041;
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 50px;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1;
+  outline: 0;
+  padding: 1.25rem 3.1875rem 1.1875rem;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.download-data-sheet-button:hover {
+  color: #fff;
+}
+
+.each-product-box {
+  position: relative;
+}
+
+.each-product-article {
+  position: absolute;
+  color: #fff;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 5%;
+  max-width: 55%;
+}
+
+/* features */
+/* .features-box{
+  width: 90vw;
+  margin: 0 auto;
+} */
+.feature-heading {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+.feature-img-box {
+  margin-bottom: 16px;
+}
+
+.feature-img {
+  width: 30px;
+  height: 30px;
+}
+
+.feature-list {
+  padding-left: 30px;
+  color: #777;
+}
+
+.feature-each-list {
+  padding-left: 8px;
+  margin-bottom: 16px;
+}
+
+.product-img-each {
+  display: block;
+  margin: 0 auto;
+}
+
+.accordions-specs {
+  margin: 2px 0 0 0;
+}
+
+.accordions-Specifications {
+  background-color: #f6f6f6;
+  color: #454545;
+  padding: 10px 20px;
+}
+
+.table-specs-row {
+  border-bottom: 1px solid #e7e7e7;
+  height: 45px;
+}
+
+.table-specs {
+  width: 100%;
+}
+
+.table-specs-col {
+  width: 50%;
+  padding: 0 25px;
+}
+
+.table-specs-col-3 {
+  width: 33.33%;
+  padding: 0 5px;
+}
+.para + ul{
+  font-size: 14px;
+}
+
+/* @media (max-width:476px) {
+  .table-specs-col, .table-specs-col-3 {
+    padding: 0 0;
+    font-size: 0.7rem;
+  }
+
+  .font-weight-bold {
+    font-size: 0.8rem;
+  }
+  .accordions-Specifications {
+    padding: 10px 5px;
+  }
+  .para{
+    font-size: 0.8rem;
+  }
+  .para ul{
+    font-size: 0.7rem;
+  }
+} */
+/* services sytem and sub syste */
+.list-icons{
+  list-style-type: none;
+}
+.list-icon-text{
+  font-size:14px;
+  color:#777;
+
+}
+.list-icon{
+  color:#1D58A8;
+  margin-right:15px;
+  font-size:10px !important;
+  margin-bottom: 12px;
+}

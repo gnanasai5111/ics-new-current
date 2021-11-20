@@ -1,0 +1,173 @@
+/* navbar header */
+@media (max-width:1064px) {
+  .navbar-brand{
+    padding-left: 10px;
+  }
+  .nav-menu.align-to-right{
+    padding-right: 10px;
+  }
+  .ics-logo{
+    height: 60px;
+  }
+  /* .header_area{
+    padding-top: 5px;
+    padding-bottom: 5px;
+  } */
+
+}
+
+
+@media (max-width:992px) {
+  .page-heading{
+    font-size: 4rem !important;
+  }
+  .home-overlay-text{
+    font-size: 3rem !important;
+  }
+  .sector-home-heading{
+    font-size: 2rem;
+  }
+  .product-content-center{
+    text-align: center;
+    margin-top: 25px;
+  }
+  .product-content-img-margin{
+    margin-top: 25px;
+  }
+  .each-product-heading{
+    font-size: 1.5rem;
+
+  }
+  .each-product-para{
+    font-size: 0.8rem;
+    margin-top: 10px !important;
+  }
+  .download-data-sheet-button{
+    font-size: 12px;
+    margin-top: 10px !important;
+  }
+}
+@media (max-width:768px) {
+  .each-product-container{
+    width: 100vw !important;
+    margin: 0;
+  }
+  .breadcrumb-navcontainer{
+    display: none;
+  }
+  .each-product-article{
+    position: static;
+    color: #000;
+    margin: 20px;
+transform: translate(0,0);
+max-width: 100%;
+  }
+}
+@media (min-width:768px) and (max-width:992px) {
+  .sector-icons{
+    font-size: 36px !important;
+  }
+  .sector-icons.hardware{
+    width: 36px;
+  }
+}
+@media (max-width:576px) {
+  .ics-logo{
+    height: 50px;
+  }
+  .home-overlay-sub-text{
+    font-size: 1rem;
+  }
+  .home-overlay-line{
+    margin: 18px auto;
+  }
+  .footer-widget-container{
+    margin-top: 30px;
+  }
+  .page-heading{
+    font-size: 2.188rem !important;
+  }
+  .home-overlay-text{
+    font-size: 2.188rem !important;
+  }
+  .sector-home-heading{
+    font-size: 1.5rem;
+  }
+  .sector-content-wrap{
+    padding: 0 10px;
+  }
+  .contentBox-sector{
+    padding: 40px 40px;
+  }
+  .home-page-sectorareas{
+    width: 90%;
+  }
+  .ics-services-home{
+    width: 95%;
+  }
+  .owl-carousel .owl-item img,.home-overlay{
+    width: 150vw;
+
+  }
+  .owl-carousel .owl-item img{
+    object-fit: cover;
+    object-position: -150px 0;
+  }
+  .home-image{
+    overflow: hidden;
+  }
+  .owl-nav button.owl-prev{
+    left: 15px;
+  }
+  .owl-nav button.owl-next{
+    right: 15px;
+  }
+  .table-specs-col, .table-specs-col-3 {
+    padding: 0 0;
+    font-size: 0.7rem;
+  }
+
+  .font-weight-bold {
+    font-size: 0.8rem;
+  }
+  .accordions-Specifications {
+    padding: 10px 5px;
+  }
+  .para{
+    font-size: 0.8rem;
+  }
+  .para + ul{
+    font-size: 0.7rem;
+  }
+
+}
+@media (max-width:420px) {
+
+  .owl-carousel .owl-item img,.home-overlay{
+    width: 180vw;
+
+  }
+  .owl-carousel .owl-item img{
+
+    object-position: -210px 0;
+  }
+}
+@media (max-width:320px) {
+  .page-heading{
+    font-size: 1.75rem !important;
+  }
+  .home-overlay-text{
+    font-size: 1.5rem !important;
+  }
+  .owl-nav button.owl-prev{
+    left: 6px;
+  }
+  .owl-nav button.owl-next{
+    right: 6px;
+  }
+}
+@media (max-width:320px) {
+  .make-india{
+    display: block;
+  }
+}

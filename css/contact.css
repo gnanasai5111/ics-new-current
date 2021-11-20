@@ -1,0 +1,52 @@
+
+/* home-image */
+.page-contact-header-image {
+  position: relative;
+  background-image: url("../images/contact.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.button-contactForm{
+background-color: #1D58A8;
+outline: 0;
+padding: 10px;
+border: 0;
+color: #ffffff;
+}
+
+/* Clients */
+.page-clients-header-image {
+  position: relative;
+  background-image: url("../images/contact.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.page-careers-header-image{
+  position: relative;
+  background-image: url("../images/icsawards.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.client-logo{
+  padding: 10px;
+
+}
+.dotted-container{
+/* background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='%231D58A8FF' stroke-width='1' stroke-dasharray='9' stroke-dashoffset='9' stroke-linecap='square'/%3e%3c/svg%3e"); */
+  padding: 20px;
+  box-shadow: 0 2px 9px -5px #000;
+  text-align: center;
+  /* margin: 10px; */
+}
+/* .ics-carrers-background{
+  background: url(../images/icsawards.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  background-repeat: no-repeat;
+} */
